@@ -1,4 +1,4 @@
-from PS4a import *
+from ps4a import *
 import time
 
 # Computer chooses a word
